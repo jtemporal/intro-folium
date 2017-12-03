@@ -41,5 +41,5 @@ No notebook vou usar os dados de geolocalização de empresas no Brasil. O arqui
 
 - `prepacao-de-dados.ipynb`: Apenas um registro de como o dataset foi feito
 - `folium.ipynb`: Análise usando a biblioteca folium
-- `mapas/`: Diretório com os mapas resultantes da análise
+- `mapas_imagens/`: Diretório com os mapas resultantes da análise
 - `empresas.xz`: Arquivo `.csv` comprimido com dados de empresas
